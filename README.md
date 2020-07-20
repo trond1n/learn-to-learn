@@ -7,4 +7,4 @@ HTML5, CSS3
 * Анимация статичных объектов через keyframes
 * БЭМ-именование классов
 ### Ссылка для просмотра
-https://SidorovN.github.io/sprint-2/
+https://trond1n.github.io/learn-to-learn.github.io/
